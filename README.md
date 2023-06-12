@@ -78,29 +78,7 @@
 <a href="https://www.linkedin.com/in/vallary-buraje/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-  const username = "BurajeVallary";
-const url = `https://api.github.com/users/${BurajeVallary}/repos`;
 
-fetch(url)
-  .then(response => response.json())
-  .then(data => {
-    const languageCounts = data.reduce((acc, repo) => {
-      const language = repo.language;
-      if (language) acc[language] = (acc[language] || 0) + 1;
-      return acc;
-    }, {});
-    const totalRepos = data.length;
-    const languageStats = {};
-    for (const [language, count] of Object.entries(languageCounts)) {
-      const percentage = ((count / totalRepos) * 100).toFixed(2);
-      languageStats[language] = `${percentage}%`;
-    }
-    console.log(languageStats);
-  })
-  .catch(error => console.error(error));
-</div>  
-  
 
 <br/>  
 
