@@ -79,7 +79,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-  const username = "YOUR_GITHUB_USERNAME";
+  const username = "BurajeVallary";
 const url = `https://api.github.com/users/${BurajeVallary}/repos`;
 
 fetch(url)
