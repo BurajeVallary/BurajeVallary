@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns Her/She
 - ⚡ Fun fact:I love being calm 
 -->
+
+![image](https://github.com/BurajeVallary/BurajeVallary/assets/124131523/79b0ea75-53cf-4ff1-b807-5b830e83b563)
+
