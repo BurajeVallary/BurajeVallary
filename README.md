@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Vallary Buraje, a Software Developer 👨‍💻 </div>  
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Helloo+there%2C+I+am+Vallary-Buraje;A+software+Developer+based+in+Nairobi;Community+lover+and+open+source;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
+</p>
   
 
 - 🔭 I’m currently a software Engeneering student 
