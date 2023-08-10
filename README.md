@@ -5,17 +5,20 @@
 </p>
   
 
-- 🔭 I’m currently a software Engeneering student 
+- 🔭 You can find my Portfolio Here
   
 
-- 🌱 I’m currently learning Python , JavaScript and Kotlin
+- 🌱 I’m currently working on Portfolio
   
 
-- 👩‍💻 An aspiring software developer eager to join the tech community  
+- 👩‍💻 I’m currently Studying on Next JS
+
+- 💬 Ping me about: coding
   
 
 - ⚡ Fun fact:  I love having fun
-  
+
+- Fun Fact: I Love Space
 
 <br/>  
 
@@ -24,42 +27,21 @@
 <table><tr><td valign="top" width="33%">
 
 
+ ###### PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS </br>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Bootsrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=000000)
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
+</p>
 
 </td></tr></table>  
 
@@ -68,14 +50,12 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/BurajeVallary" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/Vallary_Buraje" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/vallary-buraje/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  
 </a>  
 
 
