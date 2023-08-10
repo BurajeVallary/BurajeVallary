@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=" align="center" style="width: 100%" />
-</div>  
   
 
 <p align="center">
