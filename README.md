@@ -55,16 +55,20 @@
 
 
 ## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurajeVallary&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
 
-<table>
-  <tr>
-    <td>
-      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurajeVallary&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,typescript,jupyter%20notebook,python,shell,c%2B%2B" />
-    </td>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BurajeVallary&" alt="BurajeVallaary" /></p>
-  </tr>
-</table>
+<div align="center">
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BurajeVallary&show_icons=true&count_private=true&hide_border=true" alt="BurajeVallary's GitHub Stats" />
+
+  <br />
+
+  <!-- Top Languages and Streak Stats -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Top Languages -->
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurajeVallary&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,typescript,jupyter%20notebook,python,shell,c%2B%2B" alt="Top Languages" />
+    
+    <!-- Streak Stats -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurajeVallary" alt="BurajeVallary's Streak Stats" />
+  </div>
+</div>
 
