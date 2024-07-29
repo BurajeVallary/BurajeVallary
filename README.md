@@ -8,17 +8,17 @@
 - 🔭 You can find my Portfolio Here
   
 
-- 🌱 I’m currently working on Portfolio
+- 🌱 I’m currently working on Machine Learning projects
   
 
-- 👩‍💻 I’m currently Studying on Next JS
+- 👩‍💻 I’m currently Studying python prompting codes
 
-- 💬 Ping me about: coding
+- 💬 Ping me about: coding and research related tasks
   
 
 - ⚡ Fun fact:  I love having fun
 
-- Fun Fact: I Love Space
+
 
 <br/>  
 
