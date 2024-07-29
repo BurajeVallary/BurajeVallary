@@ -3,9 +3,7 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there%2C+I+am+Vallary-Buraje;A+software+Developer+based+in+Nairobi;Community+lover+and+open+source;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BurajeVallary&label=Profile%20views&color=0e75b6&style=flat" alt="BurajeVallary" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BurajeVallary" alt="BurajeVallary" /></a> </p>
+</a> </p>
 
   
 
@@ -21,6 +19,10 @@
   
 
 - ⚡ Fun fact:  I love having fun
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=BurajeVallary&label=Profile%20views&color=0e75b6&style=flat" alt="BurajeVallary" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BurajeVallary" alt="BurajeVallary" />
 
 
 
