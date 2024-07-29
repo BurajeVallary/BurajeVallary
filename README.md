@@ -21,26 +21,23 @@
 </p>
 
 ## My Skill Set  
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      ###### PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
-      <br/>
-      ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-      ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-      ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-      ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-      ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
-      ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
-      ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
-      ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-      ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
-      ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator)
-      ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=000000)
-    </td>
-  </tr>
-</table>
+## My Skill Set
+
+**PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS**
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=000000)
+
 
 ## Connect with Me
 <div align="center">
