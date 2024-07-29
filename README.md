@@ -20,7 +20,6 @@
   </a>
 </p>
 
-## My Skill Set  
 ## My Skill Set
 
 **PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS**
