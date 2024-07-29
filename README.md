@@ -51,6 +51,17 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sini-mary&" alt="sini-mary" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BurajeVallary&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
+
+<table>
+  <tr>
+    <td>
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurajeVallary&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,typescript,jupyter%20notebook,python,shell,c%2B%2B" />
+    </td>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BurajeVallary&" alt="BurajeVallaary" /></p>
+  </tr>
+</table>
 
 
