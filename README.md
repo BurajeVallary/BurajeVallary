@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td>
-      <h1>Hello World!😊 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+      <h1>Hello there!😊</h2>
 </h1>
 <ul style="list-style: none;">
   <li>😊 You can find my Portfolio <b>Here</b></li>
-  <li>👨‍💻 I’m currently learning <b> Machine learning projects</b></li>
-  <li>💬 Ping me about: <b>Frontend</b>, <b>Research </b></li>,  <b>Design </b></li>
+  <li>👨‍💻 I’m currently learning on  <b> Machine learning projects</b></li>
+  <li>💬 Ping me about: <b>Frontend</b>, <b>Research </b></li>, <b> UX Design </b></li>
   <li>🦋 Fun Fact: <b>I love butterflies </b></li>
 </ul>
   
@@ -35,7 +35,7 @@
     <br/>
   </a>
   <a href="#" title="Trungquandev">
-    <img width="900" src="https://github-readme-stats.vercel.app/api?username=Vallary-Buraje&show_icons=true&theme=react&title_color=ffffff&bg_color=000000&border_color=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BurajeVallary&show_icons=true&count_private=true&hide_border=true" alt="BurajeVallary's GitHub Stats" />
   </a>
 </div>
      </td>
