@@ -21,10 +21,8 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=000000)
+
 
 </p>
       </td>   
