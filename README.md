@@ -36,6 +36,7 @@
   </a>
   <a href="#" title="Trungquandev">
     <img src="https://github-readme-stats.vercel.app/api?username=BurajeVallary&show_icons=true&count_private=true&hide_border=true" alt="BurajeVallary's GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=BurajeVallary"/>
   </a>
 </div>
      </td>
