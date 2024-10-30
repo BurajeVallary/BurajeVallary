@@ -1,13 +1,13 @@
 <table>
   <tr>
     <td>
-      <h1>Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+      <h1>Hello World!😊 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 </h1>
 <ul style="list-style: none;">
   <li>😊 You can find my Portfolio <b>Here</b></li>
   <li>👨‍💻 I’m currently learning <b> Machine learning projects</b></li>
   <li>💬 Ping me about: <b>Frontend</b>, <b>Research </b></li>,  <b>Design </b></li>
-  <li>🔭 Fun Fact: <b>I love butterflies </b></li>
+  <li>🦋 Fun Fact: <b>I love butterflies </b></li>
 </ul>
   
  ###### PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS </br>
