@@ -5,8 +5,8 @@
 </h1>
 <ul style="list-style: none;">
   <li>😊 You can find my Portfolio <b>Here</b></li>
-  <li>👨‍💻 I’m currently learning on  <b> Machine learning projects</b></li>
-  <li>💬 Ping me about: <b>Frontend</b>, <b>Research </b></li>, <b> UX Design </b></li>
+  <li>👨‍💻 I’m currently learning Flutter for mobile app development  <b> </b></li>
+  <li>💬 Ping me about: <b>Frontend</b>, <b>Research </b></li>, <b> Mobile Development </b></li>
   <li>🦋 Fun Fact: <b>I love butterflies </b></li>
 </ul>
   
